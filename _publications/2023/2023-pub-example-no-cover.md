@@ -19,6 +19,6 @@ authors:
   - Yong Xia
   - Dacheng Tao
 links:
-  Code: [FIBA](https://github.com/HazardFY/FIBA)
+  Code: https://github.com/HazardFY/FIBA
 #  Demo: https://luost26.github.io/bubble-visual-hash
 ---
