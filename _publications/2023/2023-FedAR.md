@@ -1,7 +1,7 @@
 ---
 title:          "Federated adaptive reweighting for medical image classification"
 date:           2023-12-1 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "Pattern Recognition (PR)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
