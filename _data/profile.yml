@@ -23,10 +23,10 @@ linkedin: https://www.linkedin.com/in/yu-feng-272b602b2/
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am currently a second-year Ph.D. student in the School of Computer Science, The University of Sydney, 
-    under the supervision of Prof. <a href="https://scholar.google.com/citations?user=N8qTc2AAAAAJ&hl=en" target="_blank">WeidongCai</a>.
-    Before that, I received my M.E. and B.E. degrees in the School of Computer Science and Engineering, Northwestern Polytechnical University (NPU) in 2023 and 2020 respectively, 
-    advised by Prof. Yong Xia.
+    I am currently a second-year Ph.D. student in the School of Computer Science at the University of Sydney, 
+  supervised by <a href="https://scholar.google.com/citations?user=N8qTc2AAAAAJ&hl=en" target="_blank">Prof. Weidong Cai</a>.
+  Prior to this, I received my M.E. and B.E. degrees from the School of Computer Science and Engineering at Northwestern Polytechnical University (NPU) in 2023 and 2020, respectively,
+  under the supervision of <a href="https://scholar.google.com/citations?user=Usw1jeMAAAAJ&hl=en" target="_blank">Prof. Yong Xia</a>.
   </p>
   <p>
     My research interests include backdoor attacks and medical image analysis. Recently, I'm focusing on the security and medical applications of 3D point cloud data.
@@ -42,14 +42,14 @@ education:
   position: >- 
     School of Computer Science <br/>
     Ph.D. candidate
-  date: January. 2024 - present
+  date: Jan. 2024 - present
 - name: Northwestern Polytechnical University
   logo: /assets/images/badges/NPU_logo.png
-  position: M.E. in Computer Science
+  position: M.E. in Computer Science and Technology
   date: Sep. 2020 - Apr. 2023
 - name: Northwestern Polytechnical University
   logo: /assets/images/badges/NPU_logo.png
-  position: B.E. in Computer Science
+  position: B.E. in Computer Science and Technology
   date: Sep. 2016 - Jul. 2020
 
 experience:
