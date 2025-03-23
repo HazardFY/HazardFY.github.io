@@ -1,0 +1,35 @@
+---
+title:          "Stealthy Patch-Wise Backdoor Attack in 3D Point Cloud via Curvature Awareness"
+date:           2025-03-12 00:01:00 +0800
+selected:       true
+pub:            "Arxiv"
+# pub_pre:        "Submitted to "
+# pub_post:       'Under review.'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_date:       "2025"
+
+abstract: >-
+  Backdoor attacks pose a severe threat to deep neural networks (DNN) by implanting hidden backdoors that can be activated
+  with predefined triggers to manipulate model behaviors maliciously. Existing 3D point cloud backdoor attacks primarily 
+  rely on sample-wise global modifications, resulting in suboptimal stealthiness. To address this limitation, we propose 
+  Stealthy Patch-Wise Backdoor Attack (SPBA), which employs the first patch-wise trigger for 3D point clouds and restricts
+  perturbations to local regions, significantly enhancing stealthiness. Specifically, SPBA decomposes point clouds into local 
+  patches and evaluates their geometric complexity using a curvature-based patch imperceptibility score, ensuring that the 
+  trigger remains less perceptible to the human eye by strategically applying it across multiple geometrically complex patches 
+  with lower visual sensitivity. By leveraging the Graph Fourier Transform (GFT), SPBA optimizes a patch-wise spectral trigger 
+  that perturbs the spectral features of selected patches, enhancing attack effectiveness while preserving the global geometric
+  structure of the point cloud. Extensive experiments on ModelNet40 and ShapeNetPart demonstrate that SPBA consistently 
+  achieves an attack success rate (ASR) exceeding 96.5% across different models while achieving state-of-the-art imperceptibility compared to existing backdoor attack methods.
+# cover:          /assets/images/covers/cover3.jpg
+authors:
+  - Yu Feng
+  - Dingxin Zhang
+  - Dongnan Liu
+  - Runkai Zhao
+  - Yong Xia
+  - Heng Huang
+  - Weidong Cai
+links:
+  # Code: https://github.com/luost26/academic-homepage
+  Paper: https://arxiv.org/abs/2503.09336
+---
