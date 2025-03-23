@@ -36,7 +36,7 @@ portrait_url: /assets/images/photos/Yu_Feng.png
 # portrait_caption: >-
 #  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
-Education:
+education:
 - name: The University of Sydney
   logo: /assets/images/badges/SYD_logo.png
   position: >- 
@@ -52,13 +52,13 @@ Education:
   position: B.E. in Computer Science
   date: Sep. 2016 - Jul. 2020
 
-Working Experience:
+experience:
  - name: JD Explore Academy
    logo: /assets/images/badges/JD_logo.png
    position: Algorithm Intern
    date: Jul. 2021 - Dec. 2021
 
-Awards:
+awards:
 - name: USYD-CSC Postgraduate Research Scholarship
   date: 2024
 - name: Excellent Master's Thesis
