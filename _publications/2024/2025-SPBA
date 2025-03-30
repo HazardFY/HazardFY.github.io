@@ -9,17 +9,8 @@ pub:            "Arxiv"
 pub_date:       "2025"
 
 abstract: >-
-  Backdoor attacks pose a severe threat to deep neural networks (DNN) by implanting hidden backdoors that can be activated
-  with predefined triggers to manipulate model behaviors maliciously. Existing 3D point cloud backdoor attacks primarily 
-  rely on sample-wise global modifications, resulting in suboptimal stealthiness. To address this limitation, we propose 
-  Stealthy Patch-Wise Backdoor Attack (SPBA), which employs the first patch-wise trigger for 3D point clouds and restricts
-  perturbations to local regions, significantly enhancing stealthiness. Specifically, SPBA decomposes point clouds into local 
-  patches and evaluates their geometric complexity using a curvature-based patch imperceptibility score, ensuring that the 
-  trigger remains less perceptible to the human eye by strategically applying it across multiple geometrically complex patches 
-  with lower visual sensitivity. By leveraging the Graph Fourier Transform (GFT), SPBA optimizes a patch-wise spectral trigger 
-  that perturbs the spectral features of selected patches, enhancing attack effectiveness while preserving the global geometric
-  structure of the point cloud. Extensive experiments on ModelNet40 and ShapeNetPart demonstrate that SPBA consistently 
-  achieves an attack success rate (ASR) exceeding 96.5% across different models while achieving state-of-the-art imperceptibility compared to existing backdoor attack methods.
+  We propose SPBA, a stealthy patch-wise backdoor attack for 3D point clouds that leverages local spectral perturbations 
+  guided by geometric complexity to achieve high attack success rates while maintaining state-of-the-art imperceptibility.
 # cover:          /assets/images/covers/cover3.jpg
 authors:
   - Yu Feng
